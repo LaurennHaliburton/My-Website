@@ -8,3 +8,7 @@ Requirements
 * GitHub - store your code Be sure to commit as you work!
 * GitHub pages (deploy your site live!)
 * A README.md file with your wireframe
+
+https://laurennhaliburton.github.io/My-Website/
+
+Wireframe - https://www.figma.com/design/epyaTgCmJxFa6LuROJGpN0/Untitled?node-id=0-1&m=dev&t=4THSdYAFtPmj3pCE-1 
